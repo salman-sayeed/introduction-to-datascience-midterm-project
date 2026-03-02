@@ -26,12 +26,12 @@ This project is developed as part of the **Introduction to Data Science** course
 
 ## 👥 Research Team Members
 
-| Name                       |     ID     | Email                       |
-| :------------------------- | :--------: | :-------------------------- |
-| **Salman Sayeed**          | 22-49006-3 | 22-49006-3@student.aiub.edu |
-| **Rezwan Ahmed Prottoy**   | 22-49034-3 | 22-49034-3@student.aiub.edu |
-| **Sumaiya Jahan Pushpita** | 22-49407-3 | 22-49407-3@student.aiub.edu |
-| **Nusrat Jahan Raina**     | 23-50416-1 | 23-50416-1@student.aiub.edu |
+| Name                       |     ID     |            Email            |                                                Github |
+| :------------------------- | :--------: | :-------------------------: | ----------------------------------------------------: |
+| **Salman Sayeed**          | 22-49006-3 | 22-49006-3@student.aiub.edu |    [salman-sayeed](https://github.com/salman-sayeed/) |
+| **Rezwan Ahmed Prottoy**   | 22-49034-3 | 22-49034-3@student.aiub.edu |           [rezwan-exe](https://github.com/Rezwan-exe) |
+| **Sumaiya Jahan Pushpita** | 22-49407-3 | 22-49407-3@student.aiub.edu |                      [ - ](https://github.com/dummy/) |
+| **Nusrat Jahan Raina**     | 23-50416-1 | 23-50416-1@student.aiub.edu | [albatross-raina](https://github.com/albatross-raina) |
 
 ---
 
